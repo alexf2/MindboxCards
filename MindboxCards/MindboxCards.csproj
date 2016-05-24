@@ -62,7 +62,9 @@
   <ItemGroup>
     <Content Include="Docs\SqlTask.txt" />
     <Content Include="Docs\TaskConditions.txt" />
+    <Content Include="Supplementary\TaskSql.sql" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
