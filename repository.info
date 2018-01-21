@@ -1,4 +1,4 @@
-git clone git remote add origin https://github.com/alexf2/MindboxCards.git
+git clone  https://github.com/alexf2/MindboxCards.git
 
 cd existing-project
 git init
